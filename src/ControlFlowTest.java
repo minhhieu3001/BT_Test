@@ -2,7 +2,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class Test3 {
+public class ControlFlowTest {
     @Test
     public void test1() {
         int credits = -2;
